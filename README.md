@@ -7,21 +7,21 @@ These case studies were developed as part of coursework and are **not full profe
 
 ## 📚 Case Studies Included
 
-### 1. Data Governance Framework Analysis
+### 1. [Data Governance Framework Analysis](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Governance%20Framework%20Analysis.pdf)
 - Discussions of key data governance concepts and importance of data governance in modern organizations.  
 - Exploration of governance roles (data owners, stewards, etc.)  
 - Focus on data quality and data literacy  
 
 ---
 
-### 2. Data Quality in Data Governance
+### 2. [Data Quality in Data Governance](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Quality%20in%20Data%20Governance.pdf)
 - Discussions on data quality dimensions stated in article 'Designing Data Governance(2010)'  
 - Literature review identifying 15 additional data quality dimensions  
 - Structured comparison of data quality attributes with references  
 
 ---
 
-### 3. Data Breaches in Data Governance
+### 3. [Data Breaches in Data Governance](https://github.com/ad-batrisyia/data-governance-case-studies/blob/main/Data%20Breaches%20in%20Data%20Governance.pdf)
 - Overview of data breaches and their impact, including cases in Malaysia  
 - Analysis of breach types (internal/external, intentional/unintentional)  
 - Brief explanation on data protection laws and regulations: GDPR, HIPAA, and PDPA  
